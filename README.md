@@ -1,3 +1,3 @@
 # HackUDC landing page
 
-Website for the gpul hackaton event
+Website for the gpul hackathon event
