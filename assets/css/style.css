@@ -10948,14 +10948,50 @@ textarea.form-control-lg {
 .campanies {
   padding: 0 0 5rem 0;
 }
-.campanies__logo-box {
+.campanies_gold_logo-box {
   max-width: 100%;
-  height: 3rem;
+  height: 6rem;
   margin-bottom: 2rem;
   padding: 0.5rem;
   text-align: center;
   position: relative;
   background-color: #fff;
+}
+.campanies_gold_logo-box img {
+  height: 100%;
+}
+.campanies_gold_logo-box img:hover {
+  filter: grayscale(120);
+}
+.campanies_silver_logo-box {
+  max-width: 100%;
+  height: 4rem;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  text-align: center;
+  position: relative;
+  background-color: #fff;
+}
+.campanies_silver_logo-box img {
+  height: 100%;
+}
+.campanies_silver_logo-box img:hover {
+  filter: grayscale(120);
+}
+.campanies_partner_logo-box {
+  max-width: 100%;
+  height: 5rem;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  text-align: center;
+  position: relative;
+  background-color: #fff;
+}
+.campanies_partner_logo-box img {
+  height: 100%;
+}
+.campanies_partner_logo-box img:hover {
+  filter: grayscale(120);
 }
 .campanies__logo-box img {
   height: 100%;
